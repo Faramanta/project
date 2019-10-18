@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.379" height="8.696" viewBox="0 0 16.379 8.696">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#fafafa;stroke:#fafafa;stroke-linecap:round}.cls-4{stroke:none}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h16.379v8.696H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Symbol_13_1" class="cls-2" data-name="Symbol 13 – 1">
+        <g id="Rectangle_6" class="cls-3" data-name="Rectangle 6">
+            <rect width="16.379" height="1.61" class="cls-4" rx=".805"/>
+            <rect width="15.379" height=".61" x=".5" y=".5" class="cls-1" rx=".305"/>
+        </g>
+        <g id="Rectangle_7" class="cls-3" data-name="Rectangle 7" transform="translate(0 3.543)">
+            <rect width="16.379" height="1.61" class="cls-4" rx=".805"/>
+            <rect width="15.379" height=".61" x=".5" y=".5" class="cls-1" rx=".305"/>
+        </g>
+        <g id="Rectangle_8" class="cls-3" data-name="Rectangle 8" transform="translate(0 7.086)">
+            <rect width="16.379" height="1.61" class="cls-4" rx=".805"/>
+            <rect width="15.379" height=".61" x=".5" y=".5" class="cls-1" rx=".305"/>
+        </g>
+    </g>
+</svg>
