@@ -164,9 +164,6 @@ body *, html * {
         min-height: 500px;
     }
     .section-bg .section__wrap {
-        position: absolute;
-        right:  0;
-        top: -177px;
         width: 100%;
         max-width: 1200px;
         border: 1px solid #707070;
@@ -176,6 +173,8 @@ body *, html * {
         background-repeat: no-repeat;
         background-position: right center;
         background-size: 536px;
+        margin: -177px 0 64px;
+        float: right;
     }
     .ttl1 {
         font-size: 30px;
